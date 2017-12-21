@@ -1,5 +1,5 @@
 server:
-  port: 8888
+  port: 8889
 
 spring:
   profiles:
@@ -21,4 +21,4 @@ spring:
     config:
       server:
         native:
-          search-locations: file:///xdr/siccon/config
+          search-locations: file:///home/claudinei.mendes/Projetos/SpringCloud/config

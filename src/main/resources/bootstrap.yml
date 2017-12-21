@@ -12,7 +12,7 @@ spring:
     config:
       server:
         git:
-          uri: git@antares:siccon/siccon-config.git
+          uri: git@github.com:claudinei18/config.git
 
 ---
 spring:

@@ -6,7 +6,6 @@
 		<groupId>net.tatic.siccon</groupId>
 		<artifactId>siccon</artifactId>
 		<version>0.0.1</version>
-		<relativePath>../siccon</relativePath>
 	</parent>
 
 	<artifactId>siccon-config-service</artifactId>
